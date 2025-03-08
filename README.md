@@ -62,6 +62,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact me directly at darshil@example.com.
+If you have any questions or suggestions, feel free to open an issue or contact me directly at darshilpatel5505@gmail.com.
 
 Happy coding!
